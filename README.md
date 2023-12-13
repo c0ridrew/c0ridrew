@@ -10,6 +10,6 @@
 
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=c0ridrew&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20xxxxxxxxxx)](https://github.com/c0ridrew)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20c0ridrew)](https://github.com/c0ridrew)
 
 
